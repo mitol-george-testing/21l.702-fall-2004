@@ -1,0 +1,37 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "American Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fdcae15c-d0cd-54d9-94fa-bacc0caedcbc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Studies in Fiction: Stowe, Twain, and the Transformation of 19th-Century America",
+  "course_description": "This seminar looks at two bestselling nineteenth-century American authors whose works made the subject of slavery popular among mainstream readers. _Uncle Tom's Cabin_ by Harriet Beecher Stowe and _The Adventures of_ _Huckleberry Finn_ by Mark Twain have subsequently become canonized and reviled, embraced and banned by individuals and groups at both ends of the political and cultural spectrum and everywhere in between.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.702",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
